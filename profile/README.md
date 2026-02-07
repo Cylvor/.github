@@ -50,10 +50,6 @@ We utilize a strictly typed, high-performance stack designed for scalability.
 **[ Hospitality / Web ]**
 A bespoke booking engine and digital experience for a luxury boutique villa in Rangala. Focused on high-fidelity imagery and seamless reservation flows.
 
-#### 02. INNERWHEEL INITIATIVE ↗
-**[ Non-Profit / UX ]**
-Complete digital overhaul for the Innerwheel organization. Modernizing the interface to increase engagement and accessibility.
-
 #### 03. CYLVOR LABS (Internal) ↗
 **[ R&D / Tools ]**
 Experimental playground for our internal tools, including automated ledger systems and QR generation utilities.
