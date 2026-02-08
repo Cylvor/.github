@@ -3,17 +3,24 @@
   # ✦ C Y L V O R &nbsp; I T ✦
   
   <p>
-    <strong>EST. 2026 &nbsp; | &nbsp; COLOMBO, LK</strong>
+    <strong>ARCHITECTING THE IMMERSIVE WEB</strong>
   </p>
   
   <p>
-    <i>Architecting digital experiences through Data Science & Modern Web.</i>
+    <i>Based in Colombo, Sri Lanka.</i>
   </p>
 
   <br />
 
-  [![Website](https://img.shields.io/badge/CYLVOR_IT-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://cylvorit.com)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/cylvor-it)
+  <a href="https://cylvorit.com">
+    <img src="https://img.shields.io/badge/WEBSITE-cylvorit.com-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:contact@cylvorit.com">
+    <img src="https://img.shields.io/badge/EMAIL-contact@cylvorit.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/company/cylvor-it">
+    <img src="https://img.shields.io/badge/LINKEDIN-Cylvor_IT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
 
@@ -23,36 +30,36 @@
 
 ### ✺ &nbsp; THE MANIFESTO
 
-We are a collective of developers and data scientists building at the edge of what's possible. We don't just ship code; we engineer **validity**, **performance**, and **aesthetic precision**. 
+**We don't just put information on a screen; we create experiences.**
 
-Our focus is singular: removing friction between complex data and the user experience.
+Cylvor IT is a specialized web development agency founded by passionate undergraduates. We bridge the gap between static design and fluid motion. By combining the speed of **Next.js** with the advanced animation capabilities of **GSAP**, we turn static pages into fluid, interactive journeys.
 
 ---
 
-### ◉ &nbsp; THE ARCHITECTURE
+### ◈ &nbsp; WHAT WE BUILD
 
-We utilize a strictly typed, high-performance stack designed for scalability.
+We focus exclusively on high-performance, visually immersive web solutions.
 
-| **INTERFACE** | **ENGINE** | **INTELLIGENCE** |
+* **✨ Immersive Landing Pages**
+    * *High-conversion designs with smooth scrolling and complex interactions.*
+* **🏢 Corporate & Brand Websites**
+    * *Modern digital identities for startups and established businesses.*
+* **🎨 Portfolio & Showcase Sites**
+    * *Interactive 3D/2D layouts for creatives who need to stand out.*
+* **⚡ Custom Web Applications**
+    * *Tailored solutions built on the modern web stack.*
+
+---
+
+### 🛠 &nbsp; THE STACK
+
+We utilize a strictly typed, high-performance stack designed for motion and speed.
+
+| **Core** | **Styling** | **Motion** |
 | :--- | :--- | :--- |
-| `Next.js 14` | `Node.js` | `TensorFlow` |
-| `React` | `Prisma ORM` | `Scikit-learn` |
-| `Framer Motion` | `PostgreSQL` | `Pandas` |
-| `Tailwind CSS` | `Docker` | `Python` |
-
----
-
-### ◈ &nbsp; DEPLOYMENTS
-
-> *Current active development cycles.*
-
-#### 01. VILLA-95 ↗
-**[ Hospitality / Web ]**
-A bespoke booking engine and digital experience for a luxury boutique villa in Rangala. Focused on high-fidelity imagery and seamless reservation flows.
-
-#### 03. CYLVOR LABS (Internal) ↗
-**[ R&D / Tools ]**
-Experimental playground for our internal tools, including automated ledger systems and QR generation utilities.
+| `Next.js` | `Tailwind CSS` | `GSAP (GreenSock)` |
+| `React` | `Sass` | `Framer Motion` |
+| `TypeScript` | `PostCSS` | `Three.js` |
 
 ---
 
@@ -61,16 +68,16 @@ Experimental playground for our internal tools, including automated ledger syste
 <div align="center">
 
   <p>
-    Ready to build the impossible?
+    Ready to elevate your web presence?
   </p>
   
   <a href="mailto:contact@cylvorit.com">
-    <b>GET IN TOUCH &rarr;</b>
+    <b>START A PROJECT &rarr;</b>
   </a>
 
   <br />
   <br />
 
-  <samp>© 2026 Cylvor IT. All systems nominal.</samp>
+  <samp>© 2026 Cylvor IT. All rights reserved.</samp>
 
 </div>
