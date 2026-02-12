@@ -1,6 +1,6 @@
 # Cylvor IT
 
-> **Premier Web Development & Digital Solutions based in Colombo, Sri Lanka.**
+> **Premier Web Development & Digital Solutions based in Sri Lanka.**
 
 ---
 
